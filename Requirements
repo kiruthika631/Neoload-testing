@@ -1,0 +1,69 @@
+SOFTWARE REQUIREMENTS: 
+
+1) This software supports the following 
+operating systems: 
+➢ Windows Vista 
+➢ Windows 7 (x86 and x64) 
+➢ Windows 8.X (x86 and x64) 
+➢ Windows 10 
+➢ Windows Server 2008 (x64) 
+➢ Windows Server 2012 (x64) 
+➢ Windows Server 2012 R2 (x64) 
+➢ Linux x86-x64 
+➢ (Kernel 2.6 and 3.0.x) tested on 
+Debian 6 and 7 
+➢ CentOS 5.6, 6.4 and 7 
+➢ Ubuntu 12.04, 12.10 and 14, 
+RedHat 7 
+➢ OpenSuse 13 
+➢ OS X (10.9 Mavericks and 10.10 
+Yosemite) 
+
+2) NeoLoad software is compatible with all 
+known web servers and web applications: 
+SOAP, ASP, AJAX, PHP, J2EE, CGI and 
+other. 
+
+3) As this utility was written on the Java 
+programming language, the NeoLoad web 
+product can function on any platform that is 
+able to support Java Virtual Machine 7 
+
+HARDWARE REQUIREMENTS: 
+
+➢ If you want to begin using the NeoLoad you 
+need to have at least 500Мb empty space on 
+a disc. 
+➢ Tests results will take additional space on the 
+disk. For the installation of the load 
+generator or the monitoring agent, you need 
+to have 300 Мb free space. 
+➢ Additional requirements to hardware 
+supplying completely depend on specific 
+features of scenario creation. The more load 
+is on a server, the more hardware resources 
+are required. During testing, you can easily 
+control the usage of the processor and 
+generator memory. 
+➢ If the processor constantly displays more 
+than 90%, you need to think about lowering 
+6 | P a g e 
+the number of virtual customers or raising 
+the time of response while a user goes from 
+one web page to another. NeoLoad 
+developers recommend installing auxiliary 
+load generators for better performance 
+testing services of the whole system. 
+➢ In conclusion, we can say that NeoLoad, the 
+urgent facility of load testing, allows to take 
+into account all features of modern web 
+applications, as well as to test qualitatively 
+the developed utilities and projects even with 
+limited budgets, having enough time for 
+testing. 
+➢ NeoLoad is a perfect product of corporate 
+and individual class which excellently 
+executes different tasks, allowing to reach a 
+necessary result in the shortest terms. 
+➢ A minimum of 1024 MB system memory is 
+recommended.
